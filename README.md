@@ -1,6 +1,7 @@
 # Python-for-Penetration-Testing
 
 # portScanner.py
+## Port scanner with 3 type scan options 
 ![Logo](https://user-images.githubusercontent.com/84318379/216892984-551a165e-ac50-4818-b882-d99d5f13dd7b.png)
 
 # BannerGrabber.py
