@@ -1,5 +1,5 @@
 def decode():
-  string=input("Enter the encrypted string: \n")
+  string=input("Enter the  string: \n")
   num=int(input("Enter number of items to remove: "))
   new=string
   i=1
