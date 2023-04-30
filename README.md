@@ -1,5 +1,7 @@
 # Python-for-Penetration-Testing
 
+<a href="https://towardsdev.com/sql-injection-web-security-academy-union-attack-blind-sql-9d14e159df9c" target="_blank" >Breaking SHA-1 Hashes with Python</a>
+
 # portScanner.py
 ## Port scanner with 3 type scaning options 
 ![Logo](https://user-images.githubusercontent.com/84318379/216892984-551a165e-ac50-4818-b882-d99d5f13dd7b.png)
