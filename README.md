@@ -1,6 +1,6 @@
 # Python-for-Penetration-Testing
 
-<a href="https://medium.com/@adithyakrishnav001/breaking-sha-1-hashes-with-python-a-beginners-guide-to-hash-cracking-50c2c7dd9627" target="_blank" >Breaking SHA-1 Hashes with Python</a>
+# <a href="https://medium.com/@adithyakrishnav001/breaking-sha-1-hashes-with-python-a-beginners-guide-to-hash-cracking-50c2c7dd9627" target="_blank" >Breaking SHA-1 Hashes with Python</a>
 
 # portScanner.py
 ## Port scanner with 3 type scaning options 
