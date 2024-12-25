@@ -1,3 +1,5 @@
+<a href="https://www.buymeacoffee.com/adithyakrishna" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
 # Python-for-Penetration-Testing
 
 # <a href="https://medium.com/@adithyakrishnav001/breaking-sha-1-hashes-with-python-a-beginners-guide-to-hash-cracking-50c2c7dd9627" target="_blank" >Breaking SHA-1 Hashes with Python</a>
